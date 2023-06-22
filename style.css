@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: rgb(3, 171, 118);
+  font-style: italic;
+}
+h3 {
+  text-align: center;
+  color: rgb(3, 171, 118);
+  font-style: italic;
+}
+
+.skill-header {
+  text-align: left;
+}
+
+.skill-container {
+  border: solid rgb(8, 225, 156);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+
+.contact-container {
+  border: solid rgb(8, 225, 156);
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+
+.body {
+    background-color: rgb(220, 246, 235)"
+}
