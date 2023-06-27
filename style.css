@@ -5,20 +5,3 @@ h3 {
   text-align: center;
   color: rgb(203, 116, 181) !important;
 }
-
-.skill-container {
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 16px;
-  margin-bottom: 8px;
-}
-
-.contact-container {
-  border: rgb(203, 116, 181) !important;
-  width: 400px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 16px;
-  margin-bottom: 8px;
-}
